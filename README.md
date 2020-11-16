@@ -1,5 +1,5 @@
 # DjangoToDoListCounter
-DjangoToDoListCounter## DjangoApiProject
+DjangoToDoListCounter
 
 ### Question
 Design and implement a Django ToDoApplication which remindes the user with the due date
